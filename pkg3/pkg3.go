@@ -2,6 +2,6 @@ package pkg3
 
 import "fmt"
 
-func pkg3() {
+func ShowPackageRef() {
 	fmt.Println("pkg3")
 }
